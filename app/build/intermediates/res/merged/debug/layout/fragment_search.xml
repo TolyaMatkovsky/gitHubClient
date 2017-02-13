@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    style="@style/root">
+
+    <LinearLayout
+        style="@style/root"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="100dp"
+            android:textColor="@color/homeTextHintColor"
+            android:textStyle="bold"
+            android:text="@string/homeHint"
+            android:textSize="@dimen/text_size_title_name"
+            android:textAlignment="center" />
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_marginLeft="18dp"
+            android:layout_marginRight="18dp"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:theme="@style/TextLabel">
+
+            <android.support.v7.widget.AppCompatEditText
+                android:id="@+id/github_login"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:singleLine="true"
+                android:textColor="@color/colorPrimary"
+                android:hint="@string/editTextHint"
+                android:maxLength="25"
+                android:inputType="text"/>
+        </android.support.design.widget.TextInputLayout>
+
+
+        <TextView
+            android:id="@+id/home_field"
+            android:layout_width="300dp"
+            android:layout_height="45dp"
+            android:textSize="@dimen/text_size_medium"
+            android:text="@string/homeFieldInnerText"
+            android:textColor="@color/homeFieldColor"
+            android:gravity="center"
+            android:layout_gravity="center_horizontal"
+            android:background="@drawable/home_field" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/home_look_up"
+        android:layout_width="280dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:textSize="@dimen/text_size_medium"
+        android:text="@string/homeButtonText"
+        android:textColor="@color/progressColor"
+        android:gravity="center"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/homebutton"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="40dp"/>
+</RelativeLayout>

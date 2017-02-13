@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">GitHub Client</string>
+    <string name="toolbarTitleName">User name</string>
+    <string name="toolbarBack">Back</string>
+    <string name="homeHint">Input user name to know more</string>
+    <string name="editTextHint">GitHub search</string>
+    <string name="homeFieldInnerText">Input field</string>
+    <string name="homeButtonText">LOOK UP</string>
+    <string name="homeButtonTextGetAll">GET ALL SAVED USERS</string>
+    <string name="resultsName">Name</string>
+    <string name="resultsFollowers">followers count</string>
+    <string name="resultsFollowing">following count</string>
+    <string name="resultsGists">public gists</string>
+    <string name="resultsRepos">public repos</string>
+    <string name="resultsReposList">Repositories list:</string>
+    <string name="homePresenterNetSubscriberError">Occured error searching user on net</string>
+    <string name="homeActEnterFieldError">Field mustn"'"t be empty</string>
+    <string name="ok">Ok</string>
+    <string name="success">Success</string>
+    <string name="user_data">User"'"s data</string>
+    <string name="git_search">Look user up</string>
+    <string name="logout">Logout</string>
+    <string name="something_wrong">Something went wrong</string>
+    <string name="internet_problem">Problem with Internet</string>
+    <string name="please_connect">Please, connect to Internet</string>
+    <string name="loading_data">Loading data...</string>
+    <string name="logout_title">Are you sure, you want to logout?</string>
+    <string name="cancel_logout">Cancel</string>
+    <string name="search">Search</string>
+    <string name="search_user">Search user</string>
+</resources>

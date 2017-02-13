@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi\\icon_search.png",
+        "source": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\src\\main\\res\\drawable-ldpi\\icon_search.png"
+    },
+    {
+        "merged": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi\\setting.png",
+        "source": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\src\\main\\res\\drawable-ldpi\\setting.png"
+    },
+    {
+        "merged": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi\\ic_close_search.png",
+        "source": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\src\\main\\res\\drawable-ldpi\\ic_close_search.png"
+    },
+    {
+        "merged": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi\\icon_arrow_back.png",
+        "source": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\src\\main\\res\\drawable-ldpi\\icon_arrow_back.png"
+    }
+]

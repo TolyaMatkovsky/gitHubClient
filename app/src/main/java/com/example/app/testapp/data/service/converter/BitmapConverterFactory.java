@@ -1,0 +1,43 @@
+package com.example.app.testapp.data.service.converter;
+
+import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
+
+import java.io.IOException;
+import java.lang.annotation.Annotation;
+import java.lang.reflect.Type;
+
+import okhttp3.ResponseBody;
+import retrofit2.Converter;
+import retrofit2.Retrofit;
+
+/**
+ * Created by Tolik on 23.12.2016.
+ */
+
+public final class BitmapConverterFactory extends Converter.Factory {
+
+    public static BitmapConverterFactory create() {
+        return new BitmapConverterFactory();
+    }
+
+
+    private BitmapConverterFactory() {
+    }
+
+    @Override
+    public Converter<ResponseBody, Bitmap> responseBodyConverter(Type type, Annotation[] annotations,
+                                                                 Retrofit retrofit) {
+        if (type == Bitmap.class) {
+            return new Converter<ResponseBody, Bitmap>(){
+
+                @Override
+                public Bitmap convert(ResponseBody value) throws IOException {
+                    return BitmapFactory.decodeStream(value.byteStream());
+                }
+            };
+        } else {
+            return null;
+        }
+    }
+}

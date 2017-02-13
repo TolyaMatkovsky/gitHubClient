@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Matkovsky_test_app\gitHubClientForAndroid\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\Matkovsky_test_app\gitHubClientForAndroid\app\build\intermediates\pre-dexed\release\com.android.support-support-core-ui-24.2.1_0e4f29626dd55dbdc98820834f058804146a3836.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_1d4954972b8f54651dd588b78d435fc403deb564.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_d2880a193ea172d2e406d8ec1270f2e058d54bf2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Matkovsky_test_app\gitHubClientForAndroid\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="D:\Matkovsky_test_app\gitHubClientForAndroid\app\build\intermediates\pre-dexed\release\com.android.support-design-24.2.1_8250a5c4488eb62bd6aa762a1ab3a8632ab6b530.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\exploded-aar\io.realm\realm-android-library\2.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d16c820d6943f6bbfe74699ca2ce2ad4dd44829e">
+        <dex dex="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\pre-dexed\debug\io.realm-realm-android-library-2.2.1_b6108f5a3e60443a36621113175db2927c03502c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tolik\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\pre-dexed\debug\converter-gson-2.1.0_041fbcfa0d353ed04f72a2909079019235200833.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Matkovsky_test_app\gitHubClientForAndroid\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\Matkovsky_test_app\gitHubClientForAndroid\app\build\intermediates\pre-dexed\release\com.android.support-support-fragment-24.2.1_5fea005d0d132f791b8c6d7d1d9ebd19c2686f97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\exploded-aar\com.pnikosis\materialish-progress\1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="57487745ce450899f9f250d5ae5c092a682cd041">
+        <dex dex="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\pre-dexed\debug\com.pnikosis-materialish-progress-1.0_3c5509306a687c53b60e3839c12c36500c4f6b52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tolik\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.1\19047bdb6a4fc00a44124f64ca98e88fc204e7e3\okhttp-3.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\pre-dexed\debug\okhttp-3.3.1_24257dcd54a68acc1f2aba6e8df81137f59b8396.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tolik\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-scalars\2.1.0\7c0d7c8f6e52115bb82fa018d81a8d0cae35dde5\converter-scalars-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7c0d7c8f6e52115bb82fa018d81a8d0cae35dde5">
+        <dex dex="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\pre-dexed\debug\converter-scalars-2.1.0_ba02e5998225dfdfb62cbeb29b839d6a538054e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tolik\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\pre-dexed\debug\gson-2.7_c1fc09fc9ef5444cfb1bf23b5e056371bf071ce7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\pre-dexed\debug\io.reactivex-rxandroid-1.2.1_60ca346ab3023551a6be323daad095dd9d79aa02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\exploded-aar\com.getkeepsafe.relinker\relinker\1.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b64dd5f01bc37de289f90fd59299b0c76d119611">
+        <dex dex="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\pre-dexed\debug\com.getkeepsafe.relinker-relinker-1.2.2_88ab8e4b9c4765e5239b2570258a4163ca2d4294.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tolik\.gradle\caches\modules-2\files-2.1\com.google.dagger\dagger\2.9\75a739e59d7ede2f7f425f369955bdd1c2ac122b\dagger-2.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="75a739e59d7ede2f7f425f369955bdd1c2ac122b">
+        <dex dex="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\pre-dexed\debug\dagger-2.9_778c1797753b3b1b51eaa43ac4d7a94ca0189769.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_6b0c0f79ab108ef4fbddb6a1ad8a147f9264eb1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Matkovsky_test_app\gitHubClientForAndroid\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\Matkovsky_test_app\gitHubClientForAndroid\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-24.2.1_5ae902ac819a77a62c49edffd08603fb0313c92a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Matkovsky_test_app\gitHubClientForAndroid\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\Matkovsky_test_app\gitHubClientForAndroid\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_bff9a109fd26d82163edf860f2519575e44d5884.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tolik\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.0.2\a60c039ba54c73d1133b72178e1b04133c73d13d\adapter-rxjava-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a60c039ba54c73d1133b72178e1b04133c73d13d">
+        <dex dex="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\pre-dexed\debug\adapter-rxjava-2.0.2_fcb62234b6089ef38cde93d1120925e52f88ca1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tolik\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\pre-dexed\debug\javax.inject-1_911a992a2ef34a6edc13366e57dd3fbd105ed161.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.2.1_2d453a45b50b794bd89f11c4ab54613aa6123f8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Matkovsky_test_app\gitHubClientForAndroid\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\Matkovsky_test_app\gitHubClientForAndroid\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_af4db960a31b48db474510ac2c4f59b8a0f58878.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_1cdbcb911121ca52854a06b64ed5bce21203a5e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Matkovsky_test_app\gitHubClientForAndroid\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="D:\Matkovsky_test_app\gitHubClientForAndroid\app\build\intermediates\pre-dexed\release\io.reactivex-rxandroid-1.2.1_a09683f1101c6fd9d4639b0db512a8ceab3c1e5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tolik\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.4.0_2009c4dc7d96d3a2869d84877892cf2fec9bc641.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tolik\.gradle\caches\modules-2\files-2.1\io.realm\realm-annotations\2.2.1\3095c5145d7966e555c113c6a3fc33a107badc80\realm-annotations-2.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3095c5145d7966e555c113c6a3fc33a107badc80">
+        <dex dex="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\pre-dexed\debug\realm-annotations-2.2.1_de89bfe4e6e845953195f220153f170f281f0246.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\pre-dexed\debug\com.jakewharton-butterknife-8.4.0_c974ea794b9cc341b7613c2e3ccd0c7197791861.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_14cde44bf128b89bb64ec680328f5bcbb531b3b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Matkovsky_test_app\gitHubClientForAndroid\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\Matkovsky_test_app\gitHubClientForAndroid\app\build\intermediates\pre-dexed\release\com.android.support-support-media-compat-24.2.1_0e2a693c7be34591938fc1764065061bd4be31d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Matkovsky_test_app\gitHubClientForAndroid\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\Matkovsky_test_app\gitHubClientForAndroid\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_b48353ef24bed1003aa77df229661aecb200ebdc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tolik\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\pre-dexed\debug\okio-1.8.0_9aa6cb1481ce7dc2fa8891e478f9ed16ac31ebc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Matkovsky_test_app\gitHubClientForAndroid\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="D:\Matkovsky_test_app\gitHubClientForAndroid\app\build\intermediates\pre-dexed\release\com.android.support-multidex-1.0.1_5c06fe6cdf0133a6417904db54de455a8616f295.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_87148e7b137c662db3451a8de07b43a44a01dfe7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Matkovsky_test_app\gitHubClientForAndroid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\Matkovsky_test_app\gitHubClientForAndroid\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-24.2.1_d014318f66c82bc6ea935880e58bfbacab909981.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_a4cfc2460d8d7937c66e2b7eaefcbb26fd9e8b72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_360d5fa7faa64aee6fdf3f93ff6339c2709b5443.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\exploded-aar\com.fernandocejas.frodo\frodo-runtime\0.8.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="66fad0abfc3f82ed29c6d9ca592893b04dbec94e">
+        <dex dex="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\pre-dexed\debug\com.fernandocejas.frodo-frodo-runtime-0.8.3_4d37c40164acfc92d8e58ac8c9482fcd81365211.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Matkovsky_test_app\gitHubClientForAndroid\app\build\intermediates\exploded-aar\com.getkeepsafe.relinker\relinker\1.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b64dd5f01bc37de289f90fd59299b0c76d119611">
+        <dex dex="D:\Matkovsky_test_app\gitHubClientForAndroid\app\build\intermediates\pre-dexed\release\com.getkeepsafe.relinker-relinker-1.2.2_18beca3cd1e80ff8631b2a6c8724ce4d5f46956e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tolik\.gradle\caches\modules-2\files-2.1\org.aspectj\aspectjrt\1.8.6\a7db7ea5f7bb18a1cbd9f24edd0e666504800be\aspectjrt-1.8.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0a7db7ea5f7bb18a1cbd9f24edd0e666504800be">
+        <dex dex="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\pre-dexed\debug\aspectjrt-1.8.6_e2aed299bbc5a425532edd54700f3cf425127a97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tolik\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_7afb2b0de6957460010a853e6be86ad582ba9f9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Matkovsky_test_app\gitHubClientForAndroid\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\Matkovsky_test_app\gitHubClientForAndroid\app\build\intermediates\pre-dexed\release\com.android.support-support-core-utils-24.2.1_071f24d1bc3ec6897d2f2ca884404eb53ab81e8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Matkovsky_test_app\gitHubClientForAndroid\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\Matkovsky_test_app\gitHubClientForAndroid\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_7050e85d11817c11da1cf6dc22049f1923bf3cac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_124a90b23a100a7beea84be56254bc83e12405d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tolik\.gradle\caches\modules-2\files-2.1\com.fernandocejas.frodo\frodo-api\0.8.3\3709f3ceb3fa644bb032a45f327dbbff87635ef3\frodo-api-0.8.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3709f3ceb3fa644bb032a45f327dbbff87635ef3">
+        <dex dex="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\pre-dexed\debug\frodo-api-0.8.3_596ad92f34731ec1a453146f6a4d54ac4e98ae50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_91506da7e54fc41a4fd4996f036a523c33b2bffe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Matkovsky_test_app\gitHubClientForAndroid\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\Matkovsky_test_app\gitHubClientForAndroid\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_a01070b26124ae2c2b51645fd4b93c718b689f9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\exploded-aar\io.realm\android-adapters\1.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ae57cc4afcb7ed42ee18f3c0a0a87f4ec3e783f">
+        <dex dex="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\pre-dexed\debug\io.realm-android-adapters-1.4.0_1ff355f28593a7ac7d751f1d41ec926020bfdea4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Matkovsky_test_app\gitHubClientForAndroid\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\Matkovsky_test_app\gitHubClientForAndroid\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-24.2.1_94ae27992ccd857bc6c091a3083bf53dc701b7c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tolik\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.6\2586312cd2b8a511e4c6236736f5a039fc0f2273\rxjava-1.1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\pre-dexed\debug\rxjava-1.1.6_f744c6253b7b7e4d36f9791837d32030f82fca53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_b7ca3d1370d47c6476e1332e6f08db88d72d5cd0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Matkovsky_test_app\gitHubClientForAndroid\app\build\intermediates\exploded-aar\io.realm\realm-android-library\2.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d16c820d6943f6bbfe74699ca2ce2ad4dd44829e">
+        <dex dex="D:\Matkovsky_test_app\gitHubClientForAndroid\app\build\intermediates\pre-dexed\release\io.realm-realm-android-library-2.2.1_59564ce47b89adb5559e2a607ad7ebc937f97005.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-multidex-1.0.1_253cc83f8f6d6631d8f7669ea0afb18836360edc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_3203afe26085cf22f35c34b7fd9b285822d0f225.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Matkovsky_test_app\gitHubClientForAndroid\app\build\intermediates\exploded-aar\com.pnikosis\materialish-progress\1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="57487745ce450899f9f250d5ae5c092a682cd041">
+        <dex dex="D:\Matkovsky_test_app\gitHubClientForAndroid\app\build\intermediates\pre-dexed\release\com.pnikosis-materialish-progress-1.0_7ff08c2442510f4faa1797558bc37536330ead16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Matkovsky_test_app\gitHubClientForAndroid\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="D:\Matkovsky_test_app\gitHubClientForAndroid\app\build\intermediates\pre-dexed\release\com.android.support-cardview-v7-24.2.1_1368d63fa0d2475659d43c3fee7a59927b6dfe78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Matkovsky_test_app\gitHubClientForAndroid\app\build\intermediates\exploded-aar\io.realm\android-adapters\1.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ae57cc4afcb7ed42ee18f3c0a0a87f4ec3e783f">
+        <dex dex="D:\Matkovsky_test_app\gitHubClientForAndroid\app\build\intermediates\pre-dexed\release\io.realm-android-adapters-1.4.0_e866c713182cbc69b65800193c99fae9725db16d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\exploded-aar\cn.pedant.sweetalert\library\1.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0c3529d9491be892952749d252ae1defa9b1f937">
+        <dex dex="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\pre-dexed\debug\cn.pedant.sweetalert-library-1.3_717b3f85a537c388cc86c081c1e225a876d687f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Matkovsky_test_app\gitHubClientForAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Matkovsky_test_app\gitHubClientForAndroid\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-24.2.1_274a17cb5123799eebde6afe44163036b651c966.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tolik\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.3.1\99ce730034c6f5aaed710d1e0e9df95e8714ed5f\logging-interceptor-3.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="99ce730034c6f5aaed710d1e0e9df95e8714ed5f">
+        <dex dex="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\pre-dexed\debug\logging-interceptor-3.3.1_81b386bfc51cb1d10a18c74c7a9c7e6f0bfa8b24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_16a1a33fadb952a4ade30e1446ed7bedb67cc1b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Matkovsky_test_app\gitHubClientForAndroid\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="D:\Matkovsky_test_app\gitHubClientForAndroid\app\build\intermediates\pre-dexed\release\com.jakewharton-butterknife-8.4.0_6c00391bd8b05b6a1224abaaec593987c5bcd30f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_e9d8532ef762ac9b7f56bd125946e946af81815e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_b7df4f72475d7de2f355f8e28071be7789fff83b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tolik\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_f9d49e2354756796ffd1fab2f79f268dfcac8ea2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Matkovsky_test_app\gitHubClientForAndroid\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\Matkovsky_test_app\gitHubClientForAndroid\app\build\intermediates\pre-dexed\release\com.android.support-support-compat-24.2.1_2acb04133fb7d0fa0fd2eb08a403ec63d0cc7d96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\arhitecture\gitHubClientForAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_de2f75a008fdd06f4c5c2b6c6f5bc29a68d64a7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Matkovsky_test_app\gitHubClientForAndroid\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="D:\Matkovsky_test_app\gitHubClientForAndroid\app\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-24.2.1_2812d100c0b576fb56b3bb52def8b34a11fe7d32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Matkovsky_test_app\gitHubClientForAndroid\app\build\intermediates\exploded-aar\cn.pedant.sweetalert\library\1.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0c3529d9491be892952749d252ae1defa9b1f937">
+        <dex dex="D:\Matkovsky_test_app\gitHubClientForAndroid\app\build\intermediates\pre-dexed\release\cn.pedant.sweetalert-library-1.3_6ef0f112371db0906cd3190caebf19632b182065.jar" />
+    </item>
+
+</items>

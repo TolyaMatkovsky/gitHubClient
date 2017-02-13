@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\build\\intermediates\\res\\merged\\release\\animator\\slide_in_left.xml",
+        "source": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\src\\main\\res\\animator\\slide_in_left.xml"
+    },
+    {
+        "merged": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\build\\intermediates\\res\\merged\\release\\animator\\hyperspace_in.xml",
+        "source": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\src\\main\\res\\animator\\hyperspace_in.xml"
+    },
+    {
+        "merged": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\build\\intermediates\\res\\merged\\release\\animator\\slide_in_right.xml",
+        "source": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\src\\main\\res\\animator\\slide_in_right.xml"
+    },
+    {
+        "merged": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\build\\intermediates\\res\\merged\\release\\animator\\hyperspace_out.xml",
+        "source": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\src\\main\\res\\animator\\hyperspace_out.xml"
+    }
+]

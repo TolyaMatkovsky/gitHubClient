@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\logout.png",
+        "source": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\src\\main\\res\\drawable-hdpi\\logout.png"
+    },
+    {
+        "merged": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\flow.png",
+        "source": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\src\\main\\res\\drawable-hdpi\\flow.png"
+    },
+    {
+        "merged": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\icon_menu.png",
+        "source": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\src\\main\\res\\drawable-hdpi\\icon_menu.png"
+    },
+    {
+        "merged": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\star.png",
+        "source": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\src\\main\\res\\drawable-hdpi\\star.png"
+    },
+    {
+        "merged": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\icon_arrow_back.png",
+        "source": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\src\\main\\res\\drawable-hdpi\\icon_arrow_back.png"
+    },
+    {
+        "merged": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_close_search.png",
+        "source": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\src\\main\\res\\drawable-hdpi\\ic_close_search.png"
+    },
+    {
+        "merged": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\setting.png",
+        "source": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\src\\main\\res\\drawable-hdpi\\setting.png"
+    },
+    {
+        "merged": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\git_search.png",
+        "source": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\src\\main\\res\\drawable-hdpi\\git_search.png"
+    },
+    {
+        "merged": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\icon_search.png",
+        "source": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\src\\main\\res\\drawable-hdpi\\icon_search.png"
+    },
+    {
+        "merged": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\user_data.png",
+        "source": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\src\\main\\res\\drawable-hdpi\\user_data.png"
+    }
+]

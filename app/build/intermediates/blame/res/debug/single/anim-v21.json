@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\arhitecture\\gitHubClientForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
+        "source": "D:\\arhitecture\\gitHubClientForAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\anim-v21\\design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\arhitecture\\gitHubClientForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "D:\\arhitecture\\gitHubClientForAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
+        "source": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\anim-v21\\design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\arhitecture\\gitHubClientForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "D:\\arhitecture\\gitHubClientForAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    }
+]

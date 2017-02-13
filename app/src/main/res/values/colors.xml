@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#7e7e80</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="toolbarTitleColor">#ffffff</color>
+    <color name="progressColor">#ffffff</color>
+    <color name="homeTextHintColor">#676768</color>
+    <color name="homeMainStrokeFieldColor">#000000</color>
+    <color name="homeGapStrokeFieldColor">#2d2d2d</color>
+    <color name="homeFieldColor">#bfbebe</color>
+    <color name="resultsImageBgColor">#000000</color>
+    <color name="resultsDividerCircleColor">#69f8fd</color>
+    <color name="blindColor">#2c2d2d</color>
+    <color name="blue">#0c0946</color>
+
+</resources>

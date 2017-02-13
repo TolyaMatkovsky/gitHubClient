@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_search.png",
+        "source": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\icon_search.png"
+    },
+    {
+        "merged": "D:\\arhitecture\\gitHubClientForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\user_data.png",
+        "source": "D:\\arhitecture\\gitHubClientForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\user_data.png"
+    },
+    {
+        "merged": "D:\\arhitecture\\gitHubClientForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\setting.png",
+        "source": "D:\\arhitecture\\gitHubClientForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\setting.png"
+    },
+    {
+        "merged": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\setting.png",
+        "source": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\setting.png"
+    },
+    {
+        "merged": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\logout.png",
+        "source": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\logout.png"
+    },
+    {
+        "merged": "D:\\arhitecture\\gitHubClientForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_arrow_back.png",
+        "source": "D:\\arhitecture\\gitHubClientForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\icon_arrow_back.png"
+    },
+    {
+        "merged": "D:\\arhitecture\\gitHubClientForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_close_search.png",
+        "source": "D:\\arhitecture\\gitHubClientForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\ic_close_search.png"
+    },
+    {
+        "merged": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\git_search.png",
+        "source": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\git_search.png"
+    },
+    {
+        "merged": "D:\\arhitecture\\gitHubClientForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_search.png",
+        "source": "D:\\arhitecture\\gitHubClientForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\icon_search.png"
+    },
+    {
+        "merged": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_close_search.png",
+        "source": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\ic_close_search.png"
+    },
+    {
+        "merged": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\user_data.png",
+        "source": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\user_data.png"
+    },
+    {
+        "merged": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_arrow_back.png",
+        "source": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\icon_arrow_back.png"
+    },
+    {
+        "merged": "D:\\arhitecture\\gitHubClientForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\git_search.png",
+        "source": "D:\\arhitecture\\gitHubClientForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\git_search.png"
+    },
+    {
+        "merged": "D:\\arhitecture\\gitHubClientForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\logout.png",
+        "source": "D:\\arhitecture\\gitHubClientForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\logout.png"
+    },
+    {
+        "merged": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_menu.png",
+        "source": "D:\\Matkovsky_test_app\\gitHubClientForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\icon_menu.png"
+    },
+    {
+        "merged": "D:\\arhitecture\\gitHubClientForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_menu.png",
+        "source": "D:\\arhitecture\\gitHubClientForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\icon_menu.png"
+    }
+]
